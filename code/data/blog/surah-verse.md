@@ -1,14 +1,13 @@
 ---
-title : "QS.2:255"
+title : "QS.(Surah) : (Verse)"
 tags: []
+date: 2020-01-01
 draft: false
 summary: 'simm1, simm2, simm3 and simm4 and so on'
 layout: PostSimple
 --- 
-
-## أُولَٰئِكَ عَلَىٰ هُدًى مِنْ رَبِّهِمْ ۖ وَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ
-translation: translate 
-
+## إِنَّمَا سُلْطَانُهُ عَلَى الَّذِينَ يَتَوَلَّوْنَهُ وَالَّذِينَ هُمْ بِهِ مُشْرِكُونَ 
+translate: 
 
 
 others verses that have something related: 
