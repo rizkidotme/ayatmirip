@@ -50,17 +50,19 @@ params:
 
     defaultTheme: auto
     # disableThemeToggle: true
-    ShowShareButtons: true
+    ShowShareButtons: false
     ShowReadingTime: false
-    # disableSpecial1stPost: true
+    disableSpecial1stPost: true
     displayFullLangName: false
     ShowPostNavLinks: true
     ShowBreadCrumbs: true
     ShowCodeCopyButtons: true
-    ShowRssButtonInSectionTermList: true
-    ShowToc: true
+    ShowRssButtonInSectionTermList: false
+    ShowToc: false
     # comments: false
     images: ["papermod-cover.png"]
+    hidemeta: false
+
 
     profileMode:
         enabled: false
@@ -121,7 +123,7 @@ params:
         location: 0
         distance: 1000
         threshold: 0.4
-        minMatchCharLength: 0
+        minMatchCharLength: 5
         keys: ["title", "permalink", "summary", "content"]
 
 markup:
